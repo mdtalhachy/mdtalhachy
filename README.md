@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **mdtalhachy/mdtalhachy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +15,8 @@ Here are some ideas to get you started:
 -->
 
 ![](https://raw.githubusercontent.com/mdtalhachy/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/mdtalhachy/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/mdtalhachy/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
+
+
+
